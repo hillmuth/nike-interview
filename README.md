@@ -1,4 +1,4 @@
-# nike-interview
+# url-redirect
 
 This is a standard sbt project running Akka Http.  To get started:
 
